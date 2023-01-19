@@ -32,3 +32,65 @@ const aboutMe = {
 Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um nerd que ama jogar video-game, basquete, ler (livros, mangas e hqs) e ouvir podcasts. Tenho muita facilidade em entender e solucionar problemas que precisem de raciocínio lógico, organização e pesquisa.</p>
 <br>
 
+<h2 align="center"> Social Media</h2>
+<br>
+
+  <div align="center"> 
+  <a href="https://www.instagram.com/gusttavocdn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gusttavo.x.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-silva-750860140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<br>
+
+<h2 align="center">Code Wars Ranking</h2>
+<br>
+<img src="https://www.codewars.com/users/GustavoCDN/badges/large" alt="Code Wars Badge"/>
+<br>
+<br>
+
+
+<h1 align="center">42SP Projects</h1>
+<br>
+
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center">Born2beroot</h2>
+      <a><img width="100%"  height="250px"src="./images/born2beroote.png" alt="Born2beroot Badge"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong> VirtualBox, C, ShellScript, Debian</em></p>
+      <p>
+        <a href="https://github.com/GusttavoCDN/born2beroot">Repositorio</a>
+      </p>   
+    </td>
+     <td valign="top" width="50%">
+      <h2 align="center">FT_PRINTF </h2>
+      <a><img width="100%" height="250px" src="./images/ft_printfe.png" alt="Print_f Badge"/></a>
+      <p><em><strong>:wrench: Ferramentas: </strong> C, Makefile</em></p>
+      <p>
+        <a href="https://github.com/GusttavoCDN/ft_printf">Repositorio</a>
+      </p>   
+    </td>
+  </tr>
+   <tr>
+    <td valign="top" width="50%">
+      <h2 align="center">Get Next Line</h2>
+      <a><img width="100%"  height="250px"src="./images/get_next_linem.png" alt="GNL Badge"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong> C, Makefile</em></p>
+      <p>
+        <a href="https://github.com/GusttavoCDN/get_next_line">Repositorio</a>
+      </p>   
+    </td>
+     <td valign="top" width="50%">
+      <h2 align="center">LIBFT</h2>
+      <a><img width="100%" height="250px" src="./images/libftm.png" alt="LIBFT Badge"/></a>
+      <p><em><strong>:wrench: Ferramentas: </strong>C, Makefile</em></p>
+      <p>
+        <a href="https://github.com/GusttavoCDN/libft">Repositorio</a>
+      </p>   
+    </td>
+  </tr>
+</table>
+
+
