@@ -4,7 +4,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little about me
 
-<img align="right" src="images/my_octocat.png" alt="My octocat" width="300px">
+<img align="right" src="images/my_octocat.png" alt="My octocat" width="250px">
 
 ```javascript
 const aboutMe = {
