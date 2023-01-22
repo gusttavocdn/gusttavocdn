@@ -57,6 +57,8 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
 
 <br>
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 
 <h1 align="center">42SP Projects</h1>
 <br>
