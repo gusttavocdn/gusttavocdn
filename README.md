@@ -1,6 +1,6 @@
 ### Hey Guys, I'm Gustavo da Silva 👋
 
------
+---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little about me
 
@@ -54,14 +54,14 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GusttavoCDN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoCDN&layout=compact&langs_count=7&theme=tokyonight"/>z
 </div>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 <br>
-
-
 
 <h1 align="center">42SP Projects</h1>
 <br>
-
 
 <table align="center">
   <tr>
@@ -117,5 +117,3 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
     </td>
   </tr>
 </table>
-
-
