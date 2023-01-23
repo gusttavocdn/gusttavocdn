@@ -52,12 +52,11 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
  <div align="center">
   <a href="https://github.com/GusttavoCDN">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GusttavoCDN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoCDN&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoCDN&layout=compact&langs_count=7&theme=tokyonight"/>z
 </div>
 
 <br>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 
 <h1 align="center">42SP Projects</h1>
@@ -98,6 +97,22 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
       <p><em><strong>:wrench: Ferramentas: </strong>C, Makefile</em></p>
       <p>
         <a href="https://github.com/GusttavoCDN/libft">Repositorio</a>
+      </p>   
+    </td>
+  </tr>
+</table>
+
+<h1 align="center">Projects</h1>
+<br>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center">Tech News</h2>
+      <a><img width="100%"  height="250px"src="./images/tech_news.png" alt="Tech News Cover"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong> Python, Pytest, BeatifulSoup</em></p>
+      <p>
+        <a href="https://github.com/gusttavocdn/tech_news">Repositorio</a>
       </p>   
     </td>
   </tr>
