@@ -58,15 +58,17 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
-🌆 Daytime    120 commits    ███████████████░░░░░░░░░░   60.91% 
-🌃 Evening    45 commits     █████░░░░░░░░░░░░░░░░░░░░   22.84% 
-🌙 Night      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17%
+🌞 Morning    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
+🌆 Daytime    122 commits    ███████████████░░░░░░░░░░   61.31% 
+🌃 Evening    45 commits     █████░░░░░░░░░░░░░░░░░░░░   22.61% 
+🌙 Night      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.06%
 
 ```
 
@@ -91,7 +93,6 @@ sd-023-a-trybe-futebol-cl11 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/01/2023 19:35:12 UTC
 <!--END_SECTION:waka-->
 
 <br>
