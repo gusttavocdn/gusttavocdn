@@ -151,9 +151,7 @@ sd-023-b-project-trybesmi21 mins             ██░░░░░░░░░�
         <a href="https://github.com/gusttavocdn/tech_news">Repositorio</a>
       </p>   
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
+      <td valign="top" width="50%">
       <h2 align="center">Habits Tracker</h2>
       <a><img width="100%"  height="250px"src="./images/demo-web.png" alt="Habits Cover"/></a>
       <p><em><strong>:wrench: Ferramentas:</strong>React, React-Native, Typescript, Fastify, Prisma</em></p>
