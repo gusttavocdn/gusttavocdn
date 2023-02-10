@@ -153,12 +153,22 @@ sd-023-a-trybe-futebol-cl23 mins             █░░░░░░░░░░�
         <a href="https://github.com/gusttavocdn/tech_news">Repositorio</a>
       </p>   
     </td>
-      <td valign="top" width="50%">
+    <td valign="top" width="50%">
       <h2 align="center">Habits Tracker</h2>
       <a><img width="100%"  height="250px"src="./images/demo-web.png" alt="Habits Cover"/></a>
       <p><em><strong>:wrench: Ferramentas:</strong>React, React-Native, Typescript, Fastify, Prisma</em></p>
       <p>
         <a href="https://github.com/gusttavocdn/habits_tracker">Repositorio</a>
+      </p>   
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center">Teams</h2>
+      <a><img width="100%"  height="250px"src="./images/teams.png" alt="Teams Cover"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong> React Native, Typescript, Async Storage, Expo, Styled-components</em></p>
+      <p>
+        <a href="https://github.com/gusttavocdn/teams">Repositorio</a>
       </p>   
     </td>
   </tr>
