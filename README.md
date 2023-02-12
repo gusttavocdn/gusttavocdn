@@ -19,7 +19,7 @@ const aboutMe = {
     'leadership',
   ],
   programmingLanguages: ['JavaScript', 'TypeScript', 'C', 'Python', 'ShellScript'],
-  tools: ['Express', 'Nest', 'Styled-Components', 'Jest', 'Docker', 'React', 'Cypress', 'Next', 'Redux'],
+  tools: ['Express', 'Nest', 'Styled-Components', 'Jest', 'Docker', 'React' 'React-Native', 'Cypress', 'Next', 'Redux'],
   databases: ['MySQL', 'Postgres', 'Mongo'],
 }
 ```
