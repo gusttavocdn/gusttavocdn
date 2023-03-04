@@ -169,5 +169,13 @@ otaku_dev_blog           3 hrs 19 mins       ███░░░░░░░░�
         <a href="https://github.com/gusttavocdn/teams">Repositorio</a>
       </p>   
     </td>
+    <td valign="top" width="50%">
+      <h2 align="center">Teams</h2>
+      <a><img width="100%"  height="250px"src="./images/igniteGym.jpeg" alt="Teams Cover"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong> React Native, Typescript, Async Storage, Expo, Styled-components</em></p>
+      <p>
+        <a href="https://github.com/gusttavocdn/ignite_gym">Repositorio</a>
+      </p>   
+    </td>
   </tr>
 </table>
