@@ -145,7 +145,7 @@ otaku_dev_blog           3 hrs 19 mins       ███░░░░░░░░�
   <tr>
     <td valign="top" width="50%">
       <h2 align="center">Tech News</h2>
-      <a><img width="100%"  height="250px"src="./images/tech_news.png" alt="Tech News Cover"/></a>
+      <a><img width="100%"  height="350px"src="./images/tech_news.png" alt="Tech News Cover"/></a>
       <p><em><strong>:wrench: Ferramentas:</strong> Python, Pytest, BeatifulSoup</em></p>
       <p>
         <a href="https://github.com/gusttavocdn/tech_news">Repositorio</a>
@@ -153,7 +153,7 @@ otaku_dev_blog           3 hrs 19 mins       ███░░░░░░░░�
     </td>
     <td valign="top" width="50%">
       <h2 align="center">Habits Tracker</h2>
-      <a><img width="100%"  height="250px"src="./images/demo-web.png" alt="Habits Cover"/></a>
+      <a><img width="100%"  height="350px"src="./images/demo-web.png" alt="Habits Cover"/></a>
       <p><em><strong>:wrench: Ferramentas:</strong>React, React-Native, Typescript, Fastify, Prisma</em></p>
       <p>
         <a href="https://github.com/gusttavocdn/habits_tracker">Repositorio</a>
@@ -170,7 +170,7 @@ otaku_dev_blog           3 hrs 19 mins       ███░░░░░░░░�
       </p>   
     </td>
     <td valign="top" width="50%">
-      <h2 align="center">Teams</h2>
+      <h2 align="center">Ignite Gym</h2>
       <a><img width="100%"  height="350px"src="./images/igniteGym.jpeg" alt="Teams Cover"/></a>
       <p><em><strong>:wrench: Ferramentas:</strong> React Native, Typescript, Async Storage, Expo, Styled-components</em></p>
       <p>
