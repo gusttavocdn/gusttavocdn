@@ -43,7 +43,7 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
 
 <br>
 
-<h2 align="center">Code Wars Ranking</h2>
+<h2 align="center">Code Wars</h2>
 <br>
 <img src="https://www.codewars.com/users/GustavoCDN/badges/large" alt="Code Wars Badge"/>
 <br>
