@@ -61,15 +61,15 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-200.8%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-🌆 Daytime                211 commits         █████████████░░░░░░░░░░░░   53.28 % 
-🌃 Evening                100 commits         ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-🌙 Night                  49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+🌆 Daytime                220 commits         █████████████░░░░░░░░░░░░   53.40 % 
+🌃 Evening                105 commits         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
 ```
 
 
