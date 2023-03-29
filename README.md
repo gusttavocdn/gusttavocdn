@@ -132,7 +132,7 @@ Unknown Project          1 hr                █░░░░░░░░░░�
       <a><img width="100%" height="250px" src="./images/libftm.png" alt="LIBFT Badge"/></a>
       <p><em><strong>:wrench: Ferramentas: </strong>C, Makefile</em></p>
       <p>
-        <a href="https://github.com/GusttavoCDN/libft">Repositorio</a>
+        <a href="https://github.com/gusttavocdn/42_libft">Repositorio</a>
       </p>   
     </td>
   </tr>
