@@ -63,34 +63,32 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296.2%20thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-🌆 Daytime                309 commits         ██████████████░░░░░░░░░░░   57.87 % 
-🌃 Evening                135 commits         ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-🌙 Night                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+🌞 Morning                38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+🌆 Daytime                309 commits         ██████████████░░░░░░░░░░░   57.87 %
+🌃 Evening                135 commits         ██████░░░░░░░░░░░░░░░░░░░   25.28 %
+🌙 Night                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TypeScript               10 hrs 30 mins      ████████████░░░░░░░░░░░░░   49.73 % 
-C                        3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Makefile                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-ObjectiveC               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+💬 Programming Languages:
+TypeScript               10 hrs 30 mins      ████████████░░░░░░░░░░░░░   49.73 %
+C                        3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.32 %
+Makefile                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+ObjectiveC               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 
-🐱‍💻 Projects: 
-code_wars                7 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
-clean_arch_tdd_api       5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-ft_printf                4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-libft                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-c_test                   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+🐱‍💻 Projects:
+code_wars                7 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.51 %
+clean_arch_tdd_api       5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.13 %
+ft_printf                4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82 %
+libft                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+c_test                   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
-
 
 <!--END_SECTION:waka-->
 
@@ -114,7 +112,7 @@ c_test                   1 hr 11 mins        █░░░░░░░░░░�
       <a><img width="100%" height="250px" src="./images/ft_printfe.png" alt="Print_f Badge"/></a>
       <p><em><strong>:wrench: Ferramentas: </strong> C, Makefile</em></p>
       <p>
-        <a href="https://github.com/GusttavoCDN/ft_printf">Repositorio</a>
+        <a href="https://github.com/gusttavocdn/42_ft_printf">Repositorio</a>
       </p>   
     </td>
   </tr>
@@ -144,11 +142,29 @@ c_test                   1 hr 11 mins        █░░░░░░░░░░�
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center">Tech News</h2>
-      <a><img width="100%"  height="350px"src="./images/tech_news.png" alt="Tech News Cover"/></a>
-      <p><em><strong>:wrench: Ferramentas:</strong> Python, Pytest, BeatifulSoup</em></p>
+      <h2 align="center">Portfolio</h2>
+      <a><img width="100%"  height="350px"src="./images/portfolio.png" alt="Portfolio Cover"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong>React, Typescript, tree.js</em></p>
       <p>
-        <a href="https://github.com/gusttavocdn/tech_news">Repositorio</a>
+        <a href="https://github.com/gusttavocdn/my_portfolio">Repositorio</a>
+      </p>   
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center">Otaku Blog</h2>
+      <a><img width="100%"  height="350px"src="./images/blog.png" alt="Blog Cover"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong>React, GithubAPI, Typescript, Axios</em></p>
+      <p>
+        <a href="https://github.com/gusttavocdn/otaku_dev_blog">Repositorio</a>
+      </p>   
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center">Trybe Futebol Clube</h2>
+      <a><img width="100%"  height="350px"src="./images/tfc.png" alt="TFC Cover"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong>Typescript, Clean-Arch, JWT, Postgres, Sequelize</em></p>
+      <p>
+        <a href="https://github.com/gusttavocdn/trybe_futebol_clube">Repositorio</a>
       </p>   
     </td>
     <td valign="top" width="50%">
@@ -175,6 +191,16 @@ c_test                   1 hr 11 mins        █░░░░░░░░░░�
       <p><em><strong>:wrench: Ferramentas:</strong> React Native, Typescript, Async Storage, Expo, Styled-components</em></p>
       <p>
         <a href="https://github.com/gusttavocdn/ignite_gym">Repositorio</a>
+      </p>   
+    </td>
+  </tr>
+  <tr>
+  <td valign="top" width="50%">
+      <h2 align="center">Tech News</h2>
+      <a><img width="100%"  height="350px"src="./images/tech_news.png" alt="Tech News Cover"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong> Python, Pytest, BeatifulSoup</em></p>
+      <p>
+        <a href="https://github.com/gusttavocdn/tech_news">Repositorio</a>
       </p>   
     </td>
   </tr>
