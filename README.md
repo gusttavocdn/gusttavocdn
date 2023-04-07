@@ -124,7 +124,7 @@ c_test                   1 hr 11 mins        █░░░░░░░░░░�
       <a><img width="100%"  height="250px"src="./images/get_next_linem.png" alt="GNL Badge"/></a>
       <p><em><strong>:wrench: Ferramentas:</strong> C, Makefile</em></p>
       <p>
-        <a href="https://github.com/GusttavoCDN/get_next_line">Repositorio</a>
+        <a href="https://github.com/GusttavoCDN/42_get_next_line">Repositorio</a>
       </p>   
     </td>
      <td valign="top" width="50%">
