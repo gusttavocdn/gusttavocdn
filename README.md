@@ -59,7 +59,7 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-530.5%20thousand%20lines%20of%20code-blue)
 
