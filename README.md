@@ -57,19 +57,19 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
 <br>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.1%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-🌆 Daytime                436 commits         ██████████████░░░░░░░░░░░   54.43 % 
-🌃 Evening                225 commits         ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-🌙 Night                  70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+🌞 Morning                70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+🌆 Daytime                436 commits         ██████████████░░░░░░░░░░░   54.30 % 
+🌃 Evening                227 commits         ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+🌙 Night                  70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 ```
 
 
