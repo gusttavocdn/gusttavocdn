@@ -77,12 +77,10 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
 
 ```text
 💬 Programming Languages: 
-C                        53 mins             ████████████████████████░   95.97 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-proggraming_exercises    55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
