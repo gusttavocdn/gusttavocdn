@@ -77,10 +77,10 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
 
 ```text
 💬 Programming Languages: 
-Bash                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-csharp-001-projeto-trybe-0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
