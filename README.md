@@ -57,7 +57,7 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
 <br>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -77,10 +77,18 @@ Sou uma pessoa extremamente curiosa e engajada com o mundo da tecnologia. Um ner
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 hr 23 mins        ███████████░░░░░░░░░░░░░░   42.95 % 
+Makefile                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+JSON                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pipex                    2 hrs 33 mins       ████████████████████░░░░░   79.37 % 
+otaku                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+42_so_long               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+MLX42                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+libft                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 
